@@ -1,14 +1,11 @@
-
-
-// a = "Rohit";
-
-// Number
+//Number
 let a:number = 10;
 let b:number = 20;
-
-// string
-let str:string = "Rohit";
-
+let c:number = 30;
+let d:number = 40;
+let e:number = 50;
+//String
+let f:string = "prince";
 // boolean
 let isExist:boolean = true;
 isExist = false;
@@ -25,11 +22,3 @@ let names:string = "Moahn";
 let honey:number = 20;
 
 const ho:number = 17;
-
-
-// Compile time language
-// Interprted language
-// JIT: Just in time
-
-//let x = 20;
-//x = "rohit";
